@@ -1,0 +1,164 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+header{
+  margin: 15px 25px;
+}
+
+
+#logo{
+  vertical-align: middle;
+}
+
+#logotext{
+  vertical-align: middle;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+
+
+.bottomblue{
+  color: white;
+  background-color: #2aa7ff;
+  border-radius: 7px;
+  font-size: 16px;
+  padding: 6px;
+  border-color: lightgrey;
+}
+
+.bottomwhite{
+  color: lightgrey;
+  background-color: white;
+  border-radius: 7px;
+  font-size: 16px;
+  padding: 6px;
+  border-color: lightgrey;
+}
+
+
+.container{
+  border-radius: 10px;
+  padding-left: 250px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  background-color: #d2d2d2;
+  border-radius: 10px;
+  height: 100%;
+  padding-top: 5%;
+  padding-bottom: 1%;
+}
+
+main{
+  border-radius: 10px;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  background-color: white;
+  height: 700px;
+  width: 700px;
+  font-size: 16px;
+}
+
+nav{
+  height: 50px;
+  width: 250px;
+  margin-bottom: 1px;
+  border-bottom: 1px;
+  padding-top: 5px;
+  padding-left: 25px;
+  border-width: thick;
+  border-color: black;
+}
+
+.listpart{
+  padding-left: 20px;
+}
+
+.inline{
+  display: inline-block;
+  margin-left: 10px;
+
+}
+
+.markv{
+  color: lightgreen;
+
+}
+
+.markx{
+  color: red;
+
+}
+
+
+.cartella{
+  margin-top: 25px;
+}
+
+.sottocartella{
+  margin-bottom: 10px;
+
+}
+
+.titolosottocartella{
+  padding-bottom: 10px;
+  margin-left: 10px;
+  margin-bottom: 5px;
+
+}
+.etichetta{
+  display: inline-block;
+}
+
+.Editorial{
+  color: white;
+  background-color: #2aa7ff;
+  border-radius: 10px;
+  font-size: 16px;
+  padding: 6px;
+}
+
+.Q1Goals{
+  color: white;
+  background-size: 18px;
+  background-color: #cf2acf;
+  border-radius: 10px;
+  font-size: 16px;
+  padding: 6px;
+}
+
+.Recruiting{
+  color: white;
+  background-color: #44b844;
+  border-radius: 10px;
+  font-size: 16px;
+  padding: 6px;
+}
+
+.Mobile{
+  color: white;
+  background-color: #ffb020;
+  border-radius: 10px;
+  font-size: 16px;
+  padding: 6px;
+}
+
+.Website{
+  color: white;
+  background-color: #ec6078;
+  border-radius: 10px;
+  font-size: 16px;
+  padding: 6px;
+}
+
+.Sales{
+  color: white;
+  background-color: #b9d83c;
+  border-radius: 10px;
+  font-size: 16px;
+  padding: 6px;
+}
