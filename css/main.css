@@ -11,7 +11,7 @@
 
 header{
   margin: 15px 25px;
-  padding-bottom: 10px;
+  padding-bottom: 4px;
 }
 
 #logo{
@@ -20,7 +20,7 @@ header{
 
 #logotext{
   vertical-align: middle;
-  font-size: 40px;
+  font-size: 50px;
   font-weight: bold;
 }
 
