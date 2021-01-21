@@ -58,13 +58,13 @@ main{
 .button{
   border-radius: 7px;
   font-size: 16px;
-  padding: 6px;
+  padding: 7px 12px;
   border-color: #f7f7f7;
 }
 
 .addtask{
   color: white;
-  background-color: #2aa7ff;
+  background-color: #34a7f9;
 }
 
 .addsection{
@@ -84,7 +84,7 @@ main{
   font-weight: bold;
   font-size: 10px;
   border-radius: 50%;
-  padding: 4px 6px;
+  padding: 4px 7px;
   background: #fff;
   border: 2px solid;
   vertical-align: middle;
@@ -93,7 +93,6 @@ main{
 .markv{
   border-color: #8fdab9;
   color: #8fdab9;
-  padding: 4px 7px;
 }
 
 .markx{
@@ -119,21 +118,20 @@ main{
 }
 .etichetta{
   display: inline-block;
-  border-radius: 15px;
+  border-radius: 12px;
   font-size: 12px;
-  padding: 10px 15px;
+  padding: 8px 15px;
   vertical-align: middle;
 }
 
 .editorial{
   color: white;
-  background-color: #2aa7ff;
+  background-color: #34a7f9;
 }
 
 .q1Goals{
   color: white;
-  background-size: 18px;
-  background-color: #cf2acf;
+  background-color: #8774b5;
 }
 
 .recruiting{
@@ -148,7 +146,7 @@ main{
 
 .website{
   color: white;
-  background-color: #ec6078;
+  background-color: #d25aa1;
 }
 
 .sales{
